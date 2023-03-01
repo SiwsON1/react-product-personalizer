@@ -1,4 +1,6 @@
+
 @import './settings.scss';
+
 
 *, *::before, *::after {
   box-sizing: border-box;
@@ -19,5 +21,7 @@ body {
   max-width: 1400px;
   margin: 0 auto;
 }
+
+
 
 @import "./typography.scss";
